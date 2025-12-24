@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Cherry-0570/leetcode116/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Cherry-0570/leetcode116/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Cherry-0570/leetcode116/tree/master/2778-sum-of-squares-of-special-elements) |
 ## String
 |  |
 | ------- |
@@ -22,4 +23,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Cherry-0570/leetcode116/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Cherry-0570/leetcode116/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
