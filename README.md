@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0263-ugly-number](https://github.com/Cherry-0570/leetcode116/tree/master/0263-ugly-number) |
 | [0509-fibonacci-number](https://github.com/Cherry-0570/leetcode116/tree/master/0509-fibonacci-number) |
+| [1185-day-of-the-week](https://github.com/Cherry-0570/leetcode116/tree/master/1185-day-of-the-week) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Cherry-0570/leetcode116/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## Dynamic Programming
 |  |
