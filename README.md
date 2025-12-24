@@ -41,5 +41,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0263-ugly-number](https://github.com/Cherry-0570/leetcode116/tree/master/0263-ugly-number) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Cherry-0570/leetcode116/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 <!---LeetCode Topics End-->
