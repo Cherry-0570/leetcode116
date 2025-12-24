@@ -42,5 +42,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0263-ugly-number](https://github.com/Cherry-0570/leetcode116/tree/master/0263-ugly-number) |
+| [0509-fibonacci-number](https://github.com/Cherry-0570/leetcode116/tree/master/0509-fibonacci-number) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Cherry-0570/leetcode116/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Cherry-0570/leetcode116/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Cherry-0570/leetcode116/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Cherry-0570/leetcode116/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
