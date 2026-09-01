@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/Cherry-0570/leetcode116/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2942-find-words-containing-character](https://github.com/Cherry-0570/leetcode116/tree/master/2942-find-words-containing-character) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Cherry-0570/leetcode116/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Cherry-0570/leetcode116/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## String
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Cherry-0570/leetcode116/tree/master/0509-fibonacci-number) |
 | [1185-day-of-the-week](https://github.com/Cherry-0570/leetcode116/tree/master/1185-day-of-the-week) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Cherry-0570/leetcode116/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Cherry-0570/leetcode116/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -57,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Cherry-0570/leetcode116/tree/master/0509-fibonacci-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Cherry-0570/leetcode116/tree/master/3432-count-partitions-with-even-sum-difference) |
 <!---LeetCode Topics End-->
