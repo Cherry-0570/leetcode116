@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/Cherry-0570/leetcode116/tree/master/2942-find-words-containing-character) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Cherry-0570/leetcode116/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Cherry-0570/leetcode116/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [4010-maximize-pair-strength-using-gcd](https://github.com/Cherry-0570/leetcode116/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## String
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Cherry-0570/leetcode116/tree/master/2778-sum-of-squares-of-special-elements) |
+| [4010-maximize-pair-strength-using-gcd](https://github.com/Cherry-0570/leetcode116/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Hash Table
 |  |
 | ------- |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1185-day-of-the-week](https://github.com/Cherry-0570/leetcode116/tree/master/1185-day-of-the-week) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Cherry-0570/leetcode116/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Cherry-0570/leetcode116/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [4010-maximize-pair-strength-using-gcd](https://github.com/Cherry-0570/leetcode116/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -63,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Cherry-0570/leetcode116/tree/master/3432-count-partitions-with-even-sum-difference) |
+## Number Theory
+|  |
+| ------- |
+| [4010-maximize-pair-strength-using-gcd](https://github.com/Cherry-0570/leetcode116/tree/master/4010-maximize-pair-strength-using-gcd) |
 <!---LeetCode Topics End-->
