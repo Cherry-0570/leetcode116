@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Cherry-0570/leetcode116/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Cherry-0570/leetcode116/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2942-find-words-containing-character](https://github.com/Cherry-0570/leetcode116/tree/master/2942-find-words-containing-character) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/Cherry-0570/leetcode116/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Cherry-0570/leetcode116/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Cherry-0570/leetcode116/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/Cherry-0570/leetcode116/tree/master/4010-maximize-pair-strength-using-gcd) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [2956-find-common-elements-between-two-arrays](https://github.com/Cherry-0570/leetcode116/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Cherry-0570/leetcode116/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## Math
 |  |
